@@ -5,3 +5,6 @@ I started with making a circle, changing its color, moving it around, and creati
 
 In the end, I decided to settle on a psychedelic, old-school "PC-Lock-Screen"-feel, with the pathing of the circle being static, but
 where the size would change depending on the volume of the audio input, picked up from the microphone. 
+
+![alt text](psychedelic.png "zoomy")
+
