@@ -1,0 +1,7 @@
+For this project, I knew I wanted to explore the possibilities of the program on a very basic level. 
+I wanted to learn how p5 worked and how to access the more simple functions of the language. 
+
+I started with making a circle, changing its color, moving it around, and creating an interaction between the user and the object. 
+
+In the end, I decided to settle on a "Windows-Lock-Screen"-feel, with the pathing of the circle being static, but
+where the size would change depending on the volume of the audio input, picked up from the microphone. 
