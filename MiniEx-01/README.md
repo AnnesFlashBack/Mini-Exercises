@@ -10,5 +10,5 @@ It does require the use of a microphone to function as intended. Interact with t
 https://cdn.rawgit.com/AnnesFlashBack/Mini-Exercises/e67563d5/MiniEx-01/MiniEx-01/index.html 
 
 
-![alt text](https://raw.githubusercontent.com/AnnesFlashBack/Mini-Exercises/master/MiniEx-01/pic.png)
+![alt text](pic.png)
 
