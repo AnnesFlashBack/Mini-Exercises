@@ -6,3 +6,5 @@ When we have fun, time speeds up. Hours can pass in an instant, days can go by i
 
 I originally wanted the image to change with a simple mouseclick, but I couldn’t make it work. In addition, I had a pretty nasty flu which didn’t exactly help me focus. Though, I will say, the many nights I spend awake over the past week probably offered some inspiration in a weird sense. I definitely felt some frustrations with project, mostly because I couldn’t get to try some of the ideas I’ve been working on, but I know there will be amble opportunity to try them out at a later time. 
 
+
+See [Sun Time Fun](https://cdn.rawgit.com/AnnesFlashBack/Mini-Exercises/f45398b3/MiniEx-02/ex-02/index.html) here.
