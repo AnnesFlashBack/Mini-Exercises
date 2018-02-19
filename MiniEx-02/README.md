@@ -1,3 +1,5 @@
+![](sun.png)
+
 With the concept of “fun” being the theme of this assignment, I was, ironically, a bit stumped for ideas. Mostly because another requirement for the assignment was that it should be an image made up of basic shapes. This was very hard for me. I had several ideas, all involving sounds or animation and none with only basic shapes. So I had to reconsider my idea of fun. 
 
 I started thinking about the effects of fun. What happens when you are doing something you thoroughly enjoy? When you laugh and are having a blast? We all know that days are never as short as when spent in a theme park. 
