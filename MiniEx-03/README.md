@@ -1,3 +1,5 @@
+![](viz.png)
+
 I am a big fan of music. 
 
 I enjoy listening to it, manipulating it, and watching it. When I edit videos or do animation the audio plays a huge part in how I am able to structure a project that I am working on. It was with this mindset I began working on this assignment. 
