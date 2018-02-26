@@ -18,6 +18,6 @@ __
 
 I ran into many problems while working on this project. Many of the methods I ended up using, I had never experimented with before. The cue method I didn’t even know existed at first, so in the beginning the changing of the text was tied to framecount which was incredibly unstable, to put it mildly. In addition, I was still suffering the after effects of a flu. My focus was not at all as hindered as it was last week, but it did keep me home from the “shut-up-and-code” session, which would probably have helped me greatly. 
 
-I also ran into some trouble when uploading to GitHub. Whenever I tried to open any of my uploaded projects, I got a "512 Bad Gateway" error. Should that happen to you, you can watch a recording of the program [here.](https://youtu.be/eoiF-foHtB8)
+I also ran into some trouble when uploading to GitHub. Whenever I tried to open any of my uploaded projects, I got a "502 Bad Gateway" error. Should that happen to you, you can watch a recording of the program [here.](https://youtu.be/eoiF-foHtB8)
 
 I learned a lot working on this project however, and look forward to future assignments. Can’t wait to figure out some way of incorporating more music into my coding 😊
