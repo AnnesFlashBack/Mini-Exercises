@@ -12,6 +12,7 @@ After that, I went in and added text to pop up at certain determined points in t
 
 You can experience my take on [Music Evolution](https://cdn.rawgit.com/AnnesFlashBack/Mini-Exercises/5978e4bd/MiniEx-03/ex-03/index.html) here. 
 
+__
 
 I ran into many problems while working on this project. Many of the methods I ended up using, I had never experimented with before. The cue method I didn’t even know existed at first, so in the beginning the changing of the text was tied to framecount which was incredibly unstable, to put it mildly. In addition, I was still suffering the after effects of a flu. My focus was not at all as hindered as it was last week, but it did keep me home from the “shut-up-and-code” session, which would probably have helped me greatly. 
 
