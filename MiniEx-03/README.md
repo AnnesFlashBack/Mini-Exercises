@@ -4,7 +4,7 @@ I enjoy listening to it, manipulating it, and watching it. When I edit videos or
 
 Firstly, I considered how I wanted to make the throbber work and quickly arriving on an idea inspired by my previous experimentation with p5.js colorCode applications. The first thing I made was a perfectly round ball that had colors inside of it which would rotate around, giving the impression of a “loading” process - very much like Apple’s spinning beach ball icon. 
 
-Following this, I knew I wanted to incorporate audio in some way, and since I was thinking of music from the perspective of “time” I thought it would be cool to set the throbber in relation to the passing of time. I knew then of a piece of music I could use: [Evolution of Music by Pentatonix.] (https://www.youtube.com/watch?v=lExW80sXsHs)
+Following this, I knew I wanted to incorporate audio in some way, and since I was thinking of music from the perspective of “time” I thought it would be cool to set the throbber in relation to the passing of time. I knew then of a piece of music I could use: [Evolution of Music by Pentatonix](https://www.youtube.com/watch?v=lExW80sXsHs).
 
 In this song, the artists go through different periods of time by singing the songs that came from that period. I changed my throbber so that instead of a simple circle, it was a series of lines fixed on a center point, which would then react to the frequency of the music, pulsing in response to the audio being played. 
 
