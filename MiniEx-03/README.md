@@ -10,6 +10,9 @@ In this song, the artists go through different periods of time by singing the so
 
 After that, I went in and added text to pop up at certain determined points in the song to let the viewer know which timeperiod they were currently listening to, all the while the color keeps spinning and “loading” more of the song. When the song ends, as does the throbber, but it can be restarted at any point with a simple mouse click. 
 
+You can experience my take on [Music Evolution](https://cdn.rawgit.com/AnnesFlashBack/Mini-Exercises/5978e4bd/MiniEx-03/ex-03/index.html) here. 
+
+
 I ran into many problems while working on this project. Many of the methods I ended up using, I had never experimented with before. The cue method I didn’t even know existed at first, so in the beginning the changing of the text was tied to framecount which was incredibly unstable, to put it mildly. In addition, I was still suffering the after effects of a flu. My focus was not at all as hindered as it was last week, but it did keep me home from the “shut-up-and-code” session, which would probably have helped me greatly. 
 
 I learned a lot working on this project however, and look forward to future assignments. Can’t wait to figure out some way of incorporating more music into my coding 😊
