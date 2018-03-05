@@ -136,7 +136,7 @@ function drawIcon() {
 }
 
 function swarm() {
-  if(frameCount%5 == 0) { // A new "like" will appear every 5 frames
+  if(frameCount%10 == 0) { // A new "like" will appear every 10 frames
     thumb = createSprite(fish.position.x, fish.position.y); // The "likes" will spawn from the fish's current position
     thumb.addAnimation("normal", "assets/likey.png"); // The "animation" is called. Here, the animation is just a single image, however
     thumb.scale = 1;
