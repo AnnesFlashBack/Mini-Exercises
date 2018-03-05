@@ -30,7 +30,7 @@ function swim() {
     fish2.scale = 0.12; // The fish was scaled down accordingly
     fish2.velocity.x = random(1, 4); // The x-speed was set to make them go right in different tempos
     fish2.velocity.y = random(-1, 1); // The y-speed was set to make them go slightly up and down
-    fish2.life = 1500; // Set a lifespan for the fish 
+    fish2.life = 2000; // Set a lifespan for the fish 
 
   }
 }
