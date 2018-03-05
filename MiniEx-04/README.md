@@ -28,9 +28,9 @@ But looking past that, I really hope you enjoy the program. [You can experience 
 ### Secret Ending
 While the program runs, a little message will occasionally pop in the top of the canvas, telling the user through various phrases to leave. This is a reference to those who can become so addicted to social media they forget there is an actual world around them. For the fish, it is a reminder that the likes flying around are poor substitutes for its school and stream. Even though the likes cover op the dark canvas of nothing behind the fish. 
 
-If the user was to start looking around, they would eventually find an exit. If you had trouble finding it, it is in the bottom right of the canvas. Upon leaving, a new program will load, running a slow animation of a school of fish swimming behind the lettering of a short poem. This was a bit of extra code I wanted to try, mostly because I wanted to explore the ways you might combine multiple .js files. Spoiler alert; it is hard and annoying. 
+If the user was to start looking around, they would eventually find an exit. If you had trouble finding it, it is in the bottom right of the canvas. Upon leaving, a new program will load, running a slow animation of a school of fish swimming behind the lettering of a short poem. This was a bit of extra code I wanted to try, mostly because I wanted to explore the ways you might combine multiple .js files. It doesn't follow the requirements of the assignments since there is no visible data input or capture, but I thought it was acceptable given that this was just an extra, little thing that I really wanted to try.  
 
-If you can't get it to work properly, there is a link to the final stage [here.](https://cdn.rawgit.com/AnnesFlashBack/Mini-Exercises/9978aed2/MiniEx-04%20(Extra)/MiniEx-04-Extra/index.html)
+If you can't find it or if there is some other problem getting it to work, there is a link to the final stage [here.](https://cdn.rawgit.com/AnnesFlashBack/Mini-Exercises/9978aed2/MiniEx-04%20(Extra)/MiniEx-04-Extra/index.html)
 
 
 
