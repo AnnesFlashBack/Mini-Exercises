@@ -19,7 +19,9 @@ While this is happening, word bubbles are appearing around on the canvas. These 
 ## Trawling Trouble
 Normally, I like to make the canvas the same size as the window, but for the sake of my computer and yours I decided to lock the canvas down to a more manageable size. There are a lot of sprites flying around and they really eat up your memory if I hadn’t made the canvas smaller. The program might still run a bit poorly at times, but I have done my best to make it as smooth as possible. 
 
-[You can experience *Stream* for yourself here.](https://cdn.rawgit.com/AnnesFlashBack/Mini-Exercises/f80a25a0/MiniEx-04/MiniEx-04/index.html)
+I also knew that I was going into uncharted territory. I utilized a lot of the p5.play library, which is extremely handy for animating and creating game-like mehcanics. However, it was a lot of information to chew through in a few days, and I'm sure my understanding of the p5.play functionalities is flawed, to put it mildly. 
+
+But looking past that, I really hope you enjoy the program. [You can experience *Stream* for yourself here.](https://cdn.rawgit.com/AnnesFlashBack/Mini-Exercises/f80a25a0/MiniEx-04/MiniEx-04/index.html)
 
 ![](pic2.png)
 
