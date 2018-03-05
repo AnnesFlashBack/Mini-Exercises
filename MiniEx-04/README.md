@@ -1,3 +1,5 @@
+![](pic1.png)
+
 ## Initial Thought Process
 
 The first step in deciding what I wanted to do for this assignment was to zone in on my angle of attack, so to speak. Luckily, it wasn’t very hard to figure out what I wanted to explore further with this exercise. 
@@ -19,10 +21,14 @@ Normally, I like to make the canvas the same size as the window, but for the sak
 
 [You can experience *Stream* for yourself here.](https://cdn.rawgit.com/AnnesFlashBack/Mini-Exercises/f80a25a0/MiniEx-04/MiniEx-04/index.html)
 
-###### Secret Ending
+![](pic2.png)
+
+### Secret Ending
 While the program runs, a little message will occasionally pop in the top of the canvas, telling the user through various phrases to leave. This is a reference to those who can become so addicted to social media they forget there is an actual world around them. For the fish, it is a reminder that the likes flying around are poor substitutes for its school and stream. Even though the likes cover op the dark canvas of nothing behind the fish. 
 
 If the user was to start looking around, they would eventually find an exit. If you had trouble finding it, it is in the bottom right of the canvas. Upon leaving, a new program will load, running a slow animation of a school of fish swimming behind the lettering of a short poem. This was a bit of extra code I wanted to try, mostly because I wanted to explore the ways you might combine multiple .js files. Spoiler alert; it is hard and annoying. 
+
+If you can't get it to work properly, there is a link to the final stage [here.](https://cdn.rawgit.com/AnnesFlashBack/Mini-Exercises/9978aed2/MiniEx-04%20(Extra)/MiniEx-04-Extra/index.html)
 
 
 
