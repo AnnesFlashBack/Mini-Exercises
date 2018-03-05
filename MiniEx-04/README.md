@@ -32,5 +32,9 @@ If the user was to start looking around, they would eventually find an exit. If 
 
 If you can't find it or if there is some other problem getting it to work, there is a link to the final stage [here.](https://cdn.rawgit.com/AnnesFlashBack/Mini-Exercises/9978aed2/MiniEx-04%20(Extra)/MiniEx-04-Extra/index.html)
 
+___
+### Music Used:
+- *Astral Plane* by Ambient Realms. Album: Massive Ambient Music Vol. 1
+- *The Fish and the Whale (End Credits)* by A Shell In The Pit. Album: Rogue Legacy Original Soundtrack
 
 
