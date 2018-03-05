@@ -15,7 +15,7 @@ function setup() {
 
 
 function draw() {
-  var bg = map(amp.getLevel(), 0, 1, 1, 20); // The volume is tied to the background color. The higher the music, the brighter the background
+  var bg = map(amp.getLevel(), 0, 1, 1, 20); // The volume is tied to the background color. The louder the music, the brighter the background
   background(bg);
 
   swim(); // The code for the fish
@@ -24,7 +24,7 @@ function draw() {
 }
 
 function swim() {
-  if(frameCount%30 == 0) { // A new fish spawns every 50 frames
+  if(frameCount%40 == 0) { // A new fish spawns every 40 frames
     var fish2 = createSprite(-100, random(100,height-100)); // The fish are placed a 100 pixels off the canvas to the left. They spawn randomly along the y-axis
     fish2.addAnimation("normal", "assets/fish2.png");
     fish2.scale = 0.12; // The fish was scaled down accordingly
