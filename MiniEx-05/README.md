@@ -54,22 +54,22 @@ function spawnBigBlocks() {
 The same was the case for the small blocks, except their spawn rate was not tied to the beats, but instead to the volume. The louder the song was, the more small blocks would appear, making the later levels quite crazy. 
 
 ```
-// The code for the big blocks
+// The code for the small blocks
 // When making sprites like this, if you don't declare a color it will pick a random one
-function bigBlock() {
-  var block = createSprite(1040, random(70,height-110), 100, 30); // Spawing coordinates and size
-  block.velocity.x = -4; // Speed
-  block.life = 500; // Lifespan in frames
-  blocks.add(block); // Added to the blocks group
+function smallBlock() {
+  var tinyBlock = createSprite(1000, random(70,height-110), 30, 20); // Spawing coordinates and size
+  tinyBlock.velocity.x = -8; // Speed
+  tinyBlock.life = 500; // Lifespan in frames
+  tinyBlocks.add(tinyBlock); // Added to the tinyBlocks group
 }
 
-// The big blocks spawn when the program detects a peak in the song
-// This means the program tries to find a pattern to the beat, and spawn a block accordingly
-function spawnBigBlocks() {
-  fft.analyze();
-  peakDetect.update(fft);
-  if (peakDetect.isDetected) {
-    bigBlock();
+// The small blocks spawn when the program detects a higher volume
+function spawnSmallBlocks() {
+  var d = map(amp.getLevel(), 0, 1, 10, 200);
+  if (d > 50) {
+    if(frameCount%4 == 0) { // A new block is only spawned every 4 frames, otherwise the screen would be flooded with blocks
+      smallBlock();
+    }
   }
 }
 ```
