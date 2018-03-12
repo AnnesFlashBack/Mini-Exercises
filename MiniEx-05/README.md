@@ -84,7 +84,11 @@ This made sort of a pseudo-3D effect, I felt. With the small blocks on top of th
 
 ## Objects, Blocks, and Generation 
 
-##### Songs Used
+##### Libraries:
+- p5.play (createSprite, collide, Group, overlap etc.)
+- p5.sound (peakDetect, fft, amplitude, loudsound etc.)
+
+##### Song List:
 
 - _Harder Better Faster Stronger_ by Daft Punk. Album: Discovery
 - _Pop Culture_ by Madeon. [Youtube](https://www.youtube.com/watch?v=lTx3G6h2xyA)
