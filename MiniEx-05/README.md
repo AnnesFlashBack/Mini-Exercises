@@ -80,6 +80,10 @@ I didn’t like how static the dark background looked and wanted to add some mov
 
 This made sort of a pseudo-3D effect, I felt. With the small blocks on top of the big blocks, and the moving dark circles in the background, it gave the program some much needed depth. 
 
+#### Multiple .js Files
+
+This was a new thing I have wanted to try ever since Shiffman mentioned it in [one of his videos.](https://www.youtube.com/watch?v=Yk18ZKvXBj4) Having your code in multiple files is very practical if you have a bunch of code like I did with this exercise. It makes it much easier to quickly find what you need, and it is very easy to set up. Simply make a new .js file, rename it, and remember to add it in the index file. Shiffman explains it better than I do, though. 
+
 ## Objects, Blocks, and Generation 
 From what I have understood, an object can be seen as sort of… a thing. That might sound a bit strange, but it is the best way I can describe it. I am reminded of the philosopher Plato’s *theory of forms* when I first started thinking about this, spurred on by Shiffman’s teachings about Classes. That, by using classes, you are creating the “ideal” object. The conceptual object, before it is actually created, and from that, deviations and differences can be found. In my program, each bullet is different even though they are all stem from the same class and should be the same, but they are all unique. Their positions are different, their lifespans are different. 
 
