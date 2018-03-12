@@ -16,11 +16,11 @@ You fly using the mouse and fire the cannon by holding down the left mouse butto
 
 ## The Game and Game Design
 
-In [Song Invaders](https://cdn.rawgit.com/AnnesFlashBack/Mini-Exercises/35383eaa/MiniEx-05/ex-05/index.html) you control a little spaceship flying across a dark canvas. A song plays in the background and for a few seconds, nothing will really happen. Then blocks will start appearing at the right side of the screen and will fly towards the spaceship. These blocks are dangerous and will crash your ship! You must clear them away using your ship’s cannon to clear the blocks before they make it to you, or use the mobility of your ship to avoid the flying space blocks. There are multiple levels, increasing in difficulty as you go along, adding more blocks to the canvas. 
+In [Song Invaders](https://cdn.rawgit.com/AnnesFlashBack/Mini-Exercises/35383eaa/MiniEx-05/ex-05/index.html) you control a little spaceship flying across a dark universe. A song plays in the background and for a few seconds, nothing will happen. Then blocks will start appearing at the right side of the screen and will fly towards the spaceship. These blocks are dangerous and will crash your ship! You must use your ship’s cannon to clear the blocks before they make it to you, or use the mobility of your ship to avoid the flying space blocks. There are multiple levels, increasing in difficulty as you go along, adding more blocks to the canvas. 
 
-There is text on the screen to guide the user as to how it is used, but no guide to how to control the ship. Assumed most people would quickly figure it out, since it is a pretty standard control scheme, but I realize now I should probably have included some sort of “tutorial.” If you couldn’t figure it out (or it bugged out or something) you are supposed to control the ship with the mouse and fire by clicking the left mouse button. 
+There is text on the screen to guide the user as to how to use the program, but no guide to how to control the ship. I assumed most people would quickly figure it out, since it is a pretty standard control scheme, but I realize now I should probably have included some sort of “tutorial" in the actual program.
 
-Your score and highscore are both updated as you go through. I was inspired on how to do this by fellow student, Mark something’s MiniEx-04, where he also utilized a score and highscore system. His program can be found here. 
+Your score and highscore are both updated as you go through. I was inspired on how to do this by fellow student, Mark Nielsen’s MiniEx-04, where he also utilized a score and highscore system. His program can be found [here.](https://github.com/MOSN97/MiniEx/tree/master/MiniEx4) 
 
 I also wanted to add an “auto-play” feature, meaning that when one level ended, it would automatically play the next song, but I could not make this work. Instead, you have to pick the next level yourself at the bottom of the screen. 
 
