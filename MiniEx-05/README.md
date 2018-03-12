@@ -54,8 +54,6 @@ function spawnBigBlocks() {
 The same was the case for the small blocks, except their spawn rate was not tied to the beats, but instead to the volume. The louder the song was, the more small blocks would appear, making the later levels quite crazy. 
 
 ```
-// The code for the small blocks
-// When making sprites like this, if you don't declare a color it will pick a random one
 function smallBlock() {
   var tinyBlock = createSprite(1000, random(70,height-110), 30, 20); // Spawing coordinates and size
   tinyBlock.velocity.x = -8; // Speed
