@@ -144,8 +144,8 @@ class Bouncy { // The class for the background circles
 
   move() {
     this.x += this.speed;
-    if (-70 > this.x) { // If the circles go off the canvas, they will reappear on the other side and keep going
-       this.x = 1070;
+    if (-80 > this.x) { // If the circles go off the canvas, they will reappear on the other side and keep going
+       this.x = 1080;
     }
   }
 }
