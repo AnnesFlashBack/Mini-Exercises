@@ -33,10 +33,46 @@ I utilized many of the methods found in the p5.play library, exactly because it 
 I knew that I wanted to work with music. Again. I think it adds so much more to a program when more of your senses can interact with it. It immerses you much more; especially when talking about games. The soundtracks from video games are crucial to setting the mood and feel of the scene taking place, as well as translating the feel of fun. Here, the music works in tandem with the music, since each level is generated based on data gathered from the music playing. 
 
 For the big blocks, I used peakDetect() found in the p5.sound library. When the program detected a beat in the song playing, it would spawn a large block just off the canvas. This block was given properties by its Sprite class. 
-(code)
+
+```
+function bigBlock() {
+  var block = createSprite(1040, random(70,height-110), 100, 30); // Spawing coordinates and size
+  block.velocity.x = -4; 
+  block.life = 500; 
+  blocks.add(block); 
+}
+
+function spawnBigBlocks() {
+  fft.analyze();
+  peakDetect.update(fft);
+  if (peakDetect.isDetected) {
+    bigBlock();
+  }
+}
+```
 
 The same was the case for the small blocks, except their spawn rate was not tied to the beats, but instead to the volume. The louder the song was, the more small blocks would appear, making the later levels quite crazy. 
-(code) 
+
+```
+// The code for the big blocks
+// When making sprites like this, if you don't declare a color it will pick a random one
+function bigBlock() {
+  var block = createSprite(1040, random(70,height-110), 100, 30); // Spawing coordinates and size
+  block.velocity.x = -4; // Speed
+  block.life = 500; // Lifespan in frames
+  blocks.add(block); // Added to the blocks group
+}
+
+// The big blocks spawn when the program detects a peak in the song
+// This means the program tries to find a pattern to the beat, and spawn a block accordingly
+function spawnBigBlocks() {
+  fft.analyze();
+  peakDetect.update(fft);
+  if (peakDetect.isDetected) {
+    bigBlock();
+  }
+}
+```
 
 #### The Standard Class
 
