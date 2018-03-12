@@ -116,7 +116,7 @@ When looking at the real world, everything around us could be considered an obje
 
 Objects have recognizable characteristics, both in programming and in the real world. There is an expectation of what can and cannot be done with this object, based on the recognizable factors the object shares with all other objects of its class. 
 
-It is as the Plato’s *theory of forms* states; *ideas are the most accurate reality. *
+It is as the Plato’s _theory of forms_ states; _ideas are the most accurate reality._
 
 
 
