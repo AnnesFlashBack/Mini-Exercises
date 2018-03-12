@@ -12,7 +12,7 @@ I believe this to be cause by the many objects flying across the screen at the s
 
 You fly using the mouse and fire the cannon by holding down the left mouse button. You respawn the ship by hitting spacebar (or any other key). 
 
-![](game.gif)
+![](test.webm)
 
 ## The Game and Game Design
 
