@@ -72,13 +72,38 @@ function spawnSmallBlocks() {
 }
 ```
 
-#### The Standard Class
+#### The "Standard" Class
 
 Because everything in the actual game only utilizes the Sprite class and not the class we were taught, I wanted to experiment with combining the two. I very quickly found out that this is much easier said than done, as I could not get the two to work together. Instead of pulling my hair out over it, I instead used the standard class to make the background graphics. 
 
-I didn’t like how static the dark background looked and wanted to add some movement to it. I made a class for an ellipse with a constructor and a few methods to go across the background in the same direction as the blocks. The width of these circles is determined by the volume of the song playing, and the speed as well as the color of the circles are randomly chosen. 
+I didn’t like how static the dark background looked and wanted to add some movement to it. I made a class for an ellipse with a constructor, and a show() and move() method to make them go across the background in the same direction as the blocks. The width of these circles is determined by the volume of the song playing, and the speed as well as the color of the circles are randomly chosen upon initializing. 
 
-This made sort of a pseudo-3D effect, I felt. With the small blocks on top of the big blocks, and the moving dark circles in the background, it gave the program some much needed depth. 
+```
+class Bouncy { // The class for the background circles
+  constructor() {
+    this.getcolor = random(12, 20); // The color is different shades of dark grey
+    this.x = random(0, 1000); // The spawing point is random
+    this.y = random(0, 700);
+    this.speed = random(-0.5, -3); // The speed is random
+  }
+
+  show() {
+    var vol = map(amp.getLevel(), 0, 0.5, 130, 150);
+    noStroke();
+    fill(this.getcolor);
+    ellipse(this.x, this.y, vol, vol); // The circles grow larger if the music is loud
+  }
+
+  move() {
+    this.x += this.speed;
+    if (-70 > this.x) { // If the circles go off the canvas, they will reappear on the other side and keep going
+       this.x = 1070;
+    }
+  }
+}
+```
+
+This made sort of a pseudo-3D effect, I felt. With the small blocks on top of the big blocks, and the moving dark circles in the background, it gave the canvas some much needed depth. 
 
 #### Multiple .js Files
 
