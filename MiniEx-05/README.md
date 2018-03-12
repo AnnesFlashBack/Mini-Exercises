@@ -47,3 +47,12 @@ I didn’t like how static the dark background looked and wanted to add some mov
 This made sort of a pseudo-3D effect, I felt. With the small blocks on top of the big blocks, and the moving dark circles in the background, it gave the program some much needed depth. 
 
 ## Objects, Blocks, and Generation 
+
+##### Songs Used
+
+- Harder Better Faster Stronger by Daft Punk
+- Pop Culture by Madeon
+- Set Free by Veorra
+- War by Edwin Starr
+- What Fills the Gap by Will Cady ft. Alan Watts
+
