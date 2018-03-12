@@ -20,6 +20,8 @@ In [Song Invaders](https://cdn.rawgit.com/AnnesFlashBack/Mini-Exercises/35383eaa
 
 There is text on the screen to guide the user as to how to use the program, but no guide to how to control the ship. I assumed most people would quickly figure it out, since it is a pretty standard control scheme, but I realize now I should probably have included some sort of “tutorial" in the actual program.
 
+Picking levels is also harder than it should be. I removed the mouse from view when you are controlling that spaceship, it can be a bit tricky to pick a new level, since you don't actually know where your mouse is. 
+
 Your score and highscore are both updated as you go through. I was inspired on how to do this by fellow student, Mark Nielsen’s MiniEx-04, where he also utilized a score and highscore system. His program can be found [here.](https://github.com/MOSN97/MiniEx/tree/master/MiniEx4) 
 
 I also wanted to add an “auto-play” feature, meaning that when one level ended, it would automatically play the next song, but I could not make this work. Instead, you have to pick the next level yourself at the bottom of the screen. 
