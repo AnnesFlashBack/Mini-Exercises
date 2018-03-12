@@ -81,6 +81,15 @@ I didn’t like how static the dark background looked and wanted to add some mov
 This made sort of a pseudo-3D effect, I felt. With the small blocks on top of the big blocks, and the moving dark circles in the background, it gave the program some much needed depth. 
 
 ## Objects, Blocks, and Generation 
+From what I have understood, an object can be seen as sort of… a thing. That might sound a bit strange, but it is the best way I can describe it. I am reminded of the philosopher Plato’s *theory of forms* when I first started thinking about this, spurred on by Shiffman’s teachings about Classes. That, by using classes, you are creating the “ideal” object. The conceptual object, before it is actually created, and from that, deviations and differences can be found. In my program, each bullet is different even though they are all stem from the same class and should be the same, but they are all unique. Their positions are different, their lifespans are different. 
+
+When looking at the real world, everything around us could be considered an object. A red apple is an object of the Apple class, for instance, but it looks slightly different from other apples. Going with this mindset, objects could be seen as a way of applying a sort of realism to programming. This is especially noticeable in video games, particularly those made by big companies. Here, realism is a point of pride and something the developers strive to achieve. They want each object the player encounters to feel unique and real, instead of the lines of code that they are. That is why bugs and glitches are as jarring and potentially hilarious as they are when we see them in modern video games. The player is given an expectation of realism, and when that expectation is broken its clashes harshly with the player’s immersion. 
+
+Objects have recognizable characteristics, both in programming and in the real world. There is an expectation of what can and cannot be done with this object, based on the recognizable factors the object shares with all other objects of its class. 
+
+It is as the Plato’s *theory of forms* states; *ideas are the most accurate reality. *
+
+
 
 ##### Libraries:
 - p5.play (createSprite, collide, Group, overlap etc.)
