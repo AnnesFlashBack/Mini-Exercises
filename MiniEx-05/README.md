@@ -50,9 +50,9 @@ This made sort of a pseudo-3D effect, I felt. With the small blocks on top of th
 
 ##### Songs Used
 
-- Harder Better Faster Stronger by Daft Punk
-- Pop Culture by Madeon
-- Set Free by Veorra
-- War by Edwin Starr
-- What Fills the Gap by Will Cady ft. Alan Watts
+- _Harder Better Faster Stronger_ by Daft Punk. Album: Discovery
+- _Pop Culture_ by Madeon. [Youtube](https://www.youtube.com/watch?v=lTx3G6h2xyA)
+- _Set Free_ by Veorra. Album: Ruby
+- _War_ by Edwin Starr. Album: War and Peace
+- _What Fills the Gap_ by Will Cady ft. Alan Watts. Album: The Awake
 
