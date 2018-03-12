@@ -1,5 +1,3 @@
-The README is not done yet. I'm still updating stuff :)
-
 # Word of Warning
 
 Firstly, I want to warn you that this program uses a lot of memory. Depending on your computer’s capabilities, the program might lag a little (or a lot) when you initialize it. I have tried to remedy this by making the first level the least intensive of the levels, so that you might still be able to experience the program as was intended. 
@@ -13,6 +11,8 @@ I believe this to be cause by the many objects flying across the screen at the s
 # Controls
 
 You fly using the mouse and fire the cannon by holding down the left mouse button. You respawn the ship by hitting spacebar (or any other key). 
+
+![](game.gif)
 
 ## The Game and Game Design
 
