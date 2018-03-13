@@ -32,7 +32,7 @@ I utilized many of the methods found in the p5.play library, exactly because it 
 
 #### Objects Generated Through Music
 
-I knew that I wanted to work with music. Again. I think it adds so much more to a program when more of your senses can interact with it. It immerses you much more; especially when talking about games. The soundtracks from video games are crucial to setting the mood and feel of the scene taking place, as well as translating the feel of fun. Here, the music works in tandem with the music, since each level is generated based on data gathered from the music playing. 
+I knew that I wanted to work with music. Again. I think it adds so much more to a program when more of your senses can interact with it. It immerses you much more; especially when talking about games. The soundtracks from video games are crucial to setting the mood and feel of the scene taking place, as well as translating the feel of fun. Here, the music works in tandem with the music, since each level is generated based on data gathered from the music playing. Each level is "procedually generated" based on the music playing, you could say.
 
 For the big blocks, I used peakDetect() found in the p5.sound library. When the program detected a beat in the song playing, it would spawn a large block just off the canvas. This block was given properties by its Sprite class. 
 
