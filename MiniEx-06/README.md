@@ -23,3 +23,7 @@ I would also like to clarify that I did not have much time to work on this proje
 You can try the program [here.](https://cdn.rawgit.com/AnnesFlashBack/Mini-Exercises/3be575ec/MiniEx-06/ex-06/index.html) I hope you enjoy. 
 
 ![](pic.png)
+
+##### Song Used:
+
+- _Alone_ by Vindsvept. [Youtube](https://www.youtube.com/watch?v=YPjuf5FPC_Y)
