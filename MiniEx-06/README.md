@@ -5,7 +5,7 @@ When the weather takes a turn for the worst, moody thoughts often accompany it. 
 
 This brings me to my three rules:
 -	There has to be colour. 
--	There should be some sort of “downpour” effect.
+-	There should be some sort of “downpour” effect (in my mind, this translates to some sort of circle moving in one direction). 
 -	There should be background music. 
 
 Incorporating colour was extremely important, I felt. Instead of focusing on the dull grey of sloshy snow or wet asphalt, I wanted to bring colour and vibrancy into the program. It would bring some life and joy into what could, otherwise, be considered a rather dull piece. 
