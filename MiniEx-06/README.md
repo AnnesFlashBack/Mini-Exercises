@@ -21,3 +21,5 @@ In the end, “bubble” is probably a more apt description of the circles than 
 I would also like to clarify that I did not have much time to work on this project this week due to some other obligations, so that program is fairly simple. If I’d had more time, I could probably have implemented more features, or made a more stable piece of code. 
 
 You can try the program [here.](https://cdn.rawgit.com/AnnesFlashBack/Mini-Exercises/3be575ec/MiniEx-06/ex-06/index.html) I hope you enjoy. 
+
+![](pic.png)
