@@ -16,7 +16,7 @@ function setup() {
   background(0);
   noStroke(); // The circles have no border
   frameRate(60); // Locked the framrate
-  song2.loop(); // Song is set to loop
+  song1.loop(); // Song is set to loop
   bgcolor = color(value, opacity); // Sets opacity for the background, making the trail behind the circles possible
   setInterval(createNewCircle, 300) // A new circle is made every 0.3 seconds
 }
