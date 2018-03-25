@@ -1,5 +1,6 @@
 
-## Y0U_L16HT_UP_TH3_R00M By Alexander Svanholm, Anne Gregersen & Frederik Ditlev
+## Y0U_L16HT_UP_TH3_R00M 
+##### By Alexander Svanholm, Anne Gregersen & Frederik Ditlev
 ### What is the Program?
 
 When you first boot up the program **“You Light Up the Room”** you are, ironically, faced with a black screen. There are no signifers to tell you what to do, nor are there any prompts, sounds, or any visible features. The screen will remain black until you click the screen, after which the text “You light up the room” will appear in the center and a female voice will read the message aloud. Music will start to play and colored circles will begin floating in from the right side of the canvas, keeping to the background. 
