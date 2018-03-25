@@ -23,10 +23,6 @@ We tried to incorporate what we had learned of **JSON** files into the project a
 
 #### Individual Analysis: 
 
-Each of you in the group analyze your own e-lit work by using the text'Vocable Code': what is the aesthetic aspects of your program in particular to the relationship between code and language?
-
-
-##### Reflections
 From a user standpoint, we understand that there are multiple things wrong with this program. There is no way to go back to a previous state, meaning that you can’t make the program “happy” again once it begins to get angry. There is no way for the user to initially know how to use the program, though the control scheme is quite simple and easy to follow once you figure it out. The circles floating in the background can be a nuisance sometimes, as they occasionally spawn on top of one another. When they go behind the text in the middle of the screen, it can sometimes be hard to make out exactly what is written. There is also the fact that in the end the program will begin threatening the user, but it won’t actually be able to do anything as any reaction from the program is tied to the speed with which the user will click through the sentences. The user can essentially lock the program in a specific array of messages forever if they wish, which takes away from the perceived idea that the program has some sort of sentience. 
 
 This perceiving of sentience was maybe one of the biggest struggles encountered during the creation of this program. So little action needs to be taken before the perceived "conciseness" falls to pieces, and it becomes very clear that everything the program does has been thought out prior to interacting with it. Cox and McLean talk about "*the formal logic that undermines [the source code's] behaviour.*" The randomness and reactiveness of the program is an act, fully controlled by the user and implemented in its entirety by the programmers. Nothing happening in this program happens without reason; it was put there. 
