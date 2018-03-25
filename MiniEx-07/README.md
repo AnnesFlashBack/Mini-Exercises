@@ -12,7 +12,7 @@ Should you keep clicking rapidly, the program will eventually “crash,” leavi
 #### Screenshot of mini_ex7:
 ![alt text](mini_ex7.1.png "Let me brighten your mood")
 #
-#### Click to [Get motivated:](https://cdn.rawgit.com/Mightydeeze/mini_ex/mini_ex_main/mini_ex7/Excercises/empty-example/index.html)
+#### Click to [Get motivated:](https://cdn.rawgit.com/AnnesFlashBack/Mini-Exercises/c1f0e069/MiniEx-07/final%20version/empty-example/index.html)
 #
 #### Code Collaboration:
 
@@ -28,11 +28,11 @@ From a user standpoint, we understand that there are multiple things wrong with 
 
 ## Our code:
 #### Index file:
-https://github.com/Mightydeeze/mini_ex/blob/mini_ex_main/mini_ex7/Excercises/empty-example/index.html
+https://github.com/AnnesFlashBack/Mini-Exercises/blob/master/MiniEx-07/final%20version/empty-example/index.html
 #### Sketch file:
-https://github.com/Mightydeeze/mini_ex/blob/mini_ex_main/mini_ex7/Excercises/empty-example/sketch.js
+https://github.com/AnnesFlashBack/Mini-Exercises/blob/master/MiniEx-07/final%20version/empty-example/sketch.js
 #### Statements (text and speech):
-https://github.com/Mightydeeze/mini_ex/blob/mini_ex_main/mini_ex7/Excercises/empty-example/statements.js
+https://github.com/AnnesFlashBack/Mini-Exercises/blob/master/MiniEx-07/final%20version/empty-example/statements.js
   #
  Best regards 
 #### Alexander Svanholm, Anne Gregersen & Frederik Ditlev
