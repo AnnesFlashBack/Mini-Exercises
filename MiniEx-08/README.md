@@ -22,7 +22,6 @@ We encountered a lot of frustrations with this exercise, especially because we w
 In the end, be it either from the difficulty of working with code we’d never seen before, or from the frustrations we experienced from issues we didn’t understand, we ended up making a rather simple program. It could have been more complex, certainly, but given our lack of knowledge with our chosen tools, this is close to the best we could do.
 
 #### Individual Analysis:
-**Insert text here**
 
 Working on this exercise was a bit of a challenge for me. Understanding APIs and the way they work can be… complicated, so reflecting on the process is a challenge for me. I will say that I have never really considered how much of our data is stored and processed on the web. Some of it is there for our benefit and for basic practicality reasons, like suggestions for new music on Spotify, but much else is stored for other purposes, such as providing “appropriate” advertisement on Facebook. 
 
