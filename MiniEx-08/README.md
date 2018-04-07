@@ -24,9 +24,12 @@ In the end, be it either from the difficulty of working with code we’d never s
 #### Individual Analysis:
 **Insert text here**
 
-(individual)Can you describe and reflect your process of making this mini exercise in terms of acquiring, processing, using and representing data? How much do you understand this provided data? How do platform providers sort the data and give you the selected data?
+Working on this exercise was a bit of a challenge for me. Understanding APIs and the way they work can be… complicated, so reflecting on the process is a challenge for me. I will say that I have never really considered how much of our data is stored and processed on the web. Some of it is there for our benefit and for basic practicality reasons, like suggestions for new music on Spotify, but much else is stored for other purposes, such as providing “appropriate” advertisement on Facebook. 
 
-(individual)Try to formulate a question in relation to web APIs or querying processes that you want to investigate further when you have more time.
+In this exercise, the acquisition of the data is simple enough to understand, since it is simply a search algorithm taking place on the giphy.com website, which then returns content based on what was searched for. I suspect the algorithm filters through the available content - here it is GIFs - and selects those with that have the searched for term as one of its tags. Many websites control and sort their content this way, and understandably so, since it is a simple and efficient way of letting your users sort their uploaded content. 
+
+If I was to work on this further, I would want to investigate the benefits of free APIs, and why they are made available to such a wide audience. What are the benefits of giving an API to thousands of strangers? It might just be to get more people involved in their site, it might be to trick them into later purchases the right for the API. I am not certain, but I would like to look into it further. 
+
 
 ## Our code:
 #### Index file:
