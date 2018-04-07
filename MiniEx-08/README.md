@@ -34,6 +34,7 @@ https://github.com/ubiquitousman/mini-ex/blob/master/mini_ex8/p5/the_gifter/inde
 #### Sketch file:
 https://github.com/ubiquitousman/mini-ex/blob/master/mini_ex8/p5/the_gifter/sketch.js
 #### Styling (CSS):
-https://github.com/ubiquitousman/mini-ex/blob/master/mini_ex8/p5/the_gifter/style.css  #
- Best regards
+https://github.com/ubiquitousman/mini-ex/blob/master/mini_ex8/p5/the_gifter/style.css  
+
+### Best regards
 #### Alexander Svanholm, Anne Gregersen & Frederik Ditlev
