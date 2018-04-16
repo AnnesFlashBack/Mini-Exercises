@@ -10,7 +10,7 @@ Potential physical components of the game: Hidden doors, locked doors, locks, ke
 A possible challenge for this idea might be the gathering of all the data we need, as we need to gather all the information and pictures ourselves. It will be very time consuming and require quite a bit of coordination (It would be silly to start the photoshoot before we knew what would actually be relevant to the program).
 
 #### Flowchart of The Escape Room
-![alt text](flowchart_escaperoom.png "ESCAPE")
+![alt text](escape room.png "ESCAPE")
 
 ### Platform Sidescroller
 
@@ -19,7 +19,7 @@ You are in control of a small, simple, vehicle that is driving along the road. T
 With this program, a challenge we could encounter is the difficulty in communicating the controls to the user. We thought of this program as a way to explore a user’s innate understanding of basic control schemes found in video games, and a technical challenge for this would be to adequately communicate the limited functions of the game to the user without using blocks of text.
 
 #### Flowchart of Platform Sidescroller
-![alt text](flowchart_sidescroller.png "DRIVE")
+![alt text](2d Side Scroller.png "DRIVE")
 
 #### Individual Analysis:
 **Insert text here**
