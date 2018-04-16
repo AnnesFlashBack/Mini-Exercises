@@ -30,7 +30,7 @@ Individual: How is this flow chart different from the one that you had in  (in t
 
 Individual: If you have to bring the concept of algorithms from flow charts to a wider cultural context, how would you reflect the notion of algorithms? (see if you could refer to the text and articulate your thoughts?)
 
-#### Flowchart of The Escape Room
+#### Flowchart of Song Invaders
 ![alt text](songinvader.png "FIRE")
 
 ## Our team:
