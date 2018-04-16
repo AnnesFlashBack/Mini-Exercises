@@ -39,6 +39,7 @@ https://github.com/ubiquitousman
 #### Anne:
 https://github.com/AnnesFlashBack
 #### Frederik:
-https://github.com/Mightydeeze  #
- Best regards
+https://github.com/Mightydeeze  
+
+## Best regards
 #### Alexander Svanholm, Anne Gregersen & Frederik Ditlev
