@@ -22,13 +22,12 @@ With this program, a challenge we could encounter is the difficulty in communica
 ![alt text](sidescroller.png "DRIVE")
 
 #### Individual Analysis:
-**Insert text here**
+The flowchart made for this project was a much more intensive process than making the group flowcharts. This is most likely do to the influx in features and complexity that exists in an already finished piece of code over that of a simple concept. 
 
-Revisit your previous mini exercises and select the most technically complex one. Draw an individual flow chart to present the program
+Working with an older project also served as a visualisation of what might have been wrong with the original product. The flowchart loops around in strange ways and is missing certain features, simple because that is how the original project was designed. Both due to time constraints and lack of ability, the polish of the code could certainly have been much better. Additions of several features, such as a way for the game to automatically move on to the next level, would have been implemented, making for a more pleasing experience, both with the game and with reading the flowchart. 
 
-Individual: How is this flow chart different from the one that you had in  (in terms of the role of a flow chart)?
+For the group flowcharts, it was based on concept, not code, which immediately lowered the complexity of the final flowchart. Since we don’t yet know enough of our end product and how it would work on a mechanical level, we couldn’t make a detailed flowchart the way we were able to do with already written code. 
 
-Individual: If you have to bring the concept of algorithms from flow charts to a wider cultural context, how would you reflect the notion of algorithms? (see if you could refer to the text and articulate your thoughts?)
 
 #### Flowchart of Song Invaders
 ![alt text](songinvader.png "FIRE")
