@@ -1,39 +1,41 @@
-Skabelon:
-#  mini_ex7:
-## Y0U_L16HT_UP_TH3_R00M By Alexander Svanholm, Anne Gregersen & Frederik Ditlev
-#
-#### What is the Program?
+# mini_ex9 - Flowcharts
+By Alexander Svanholm, Anne Gregersen & Frederik Ditlev
 
-When you first boot up the program **“You Light Up the Room”** you are, ironically, faced with a black screen. There are no signifers to tell you what to do, nor are there any prompts, sounds, or any visible features. The screen will remain black until you click the screen, after which the text “You light up the room” will appear in the center and a female voice will read the message aloud. Music will start to play and colored circles will begin floating in from the right side of the canvas, keeping to the background. 
+### The Escape Room
 
-If you continue to click, another message will pop up. The tone of the written text is encouraging and happy, giving you motivational compliments as you cycle through them. At first, the program seems innocent enough as it will continue to cycle through a defined set of kind phrases. It is only if you get impatient and start to click through the text rapidly that the program will change. It will stop praising and instead become more and more frustrated with its inability to give you what you need. 
+You are trapped inside a room and must try to figure out how to escape before the time runs out. The player needs to solve puzzles in order to get out. These puzzles can involve ciphers, finding hidden objects, filling out crosswords, matching patterns, etc..
 
-Should you keep clicking rapidly, the program will eventually “crash,” leaving you with a black screen and an “Error” message. The music will stop and the circles moving in the background will disappear. After this, there is no way to restart the program other than to refresh the page and start over. 
+Potential physical components of the game: Hidden doors, locked doors, locks, keys, multiple rooms.
 
-#### Screenshot of mini_ex7:
-![alt text](mini_ex7.1.png "Let me brighten your mood")
-#
-#### Click to [Get motivated:](https://cdn.rawgit.com/Mightydeeze/mini_ex/mini_ex_main/mini_ex7/Excercises/empty-example/index.html)
-#
-#### Code Collaboration:
+A possible challenge for this idea might be the gathering of all the data we need, as we need to gather all the information and pictures ourselves. It will be very time consuming and require quite a bit of coordination (It would be silly to start the photoshoot before we knew what would actually be relevant to the program).
 
-This project was the collaborative effort of [Alexander Svanholm](https://github.com/ubiquitousman/mini-ex), [Anne Gregersen](https://github.com/AnnesFlashBack/Mini-Exercises), and [Frederik Ditlev](https://github.com/Mightydeeze/mini_ex/tree/mini_ex_main). We spent a good amount of time spitballing ideas and thinking of possible angles of attack in the beginning of the process, ending on the idea of a bot reading compliments to the user. The sinister turn, as well as the error message, the background graphics, and the music all came organically as we worked and thought of different ideas we could implement. 
+#### Flowchart of The Escape Room
+![alt text](flowchart_escaperoom.png "ESCAPE")
 
-The moving graphics was a last minute addition. We didn’t much like the static, flat black of the background and wanted to incorporate something more visually interesting to stimulate the viewing experience. We knew it couldn’t be too distracting since that would take away from the main focus that was the text. 
+### Platform Sidescroller
 
-We tried to incorporate what we had learned of **JSON** files into the project as well. Since we had the large arrays of text it seemed like an ideal choice, but we simply couldn’t get it to work. At the time, we were nearing the completion of the program and changing everything up so that the **JSON** file might work seemed like to big of an endeavor. Instead, we moved the text arrays into their own .js file so the code didn’t look so chaotic. 
+You are in control of a small, simple, vehicle that is driving along the road. Throughout, obstacles will appear and hitting them will crash your car. If you can successfully avoid all the obstacles and get to the end of the level, you win and may be allowed to go on to the next stage.
 
-#### Individual Analysis: 
-**The following text is missing**
+With this program, a challenge we could encounter is the difficulty in communicating the controls to the user. We thought of this program as a way to explore a userâ€™s innate understanding of basic control schemes found in video games, and a technical challenge for this would be to adequately communicate the limited functions of the game to the user without using blocks of text.
 
-## Our code:
-#### Index file:
-https://github.com/Mightydeeze/mini_ex/blob/mini_ex_main/mini_ex7/Excercises/empty-example/index.html
-#### Sketch file:
-https://github.com/Mightydeeze/mini_ex/blob/mini_ex_main/mini_ex7/Excercises/empty-example/sketch.js
-#### Statements (text and speech):
-https://github.com/Mightydeeze/mini_ex/blob/mini_ex_main/mini_ex7/Excercises/empty-example/statements.js
-  #
- Best regards 
+#### Flowchart of Platform Sidescroller
+![alt text](flowchart_sidescroller.png "DRIVE")
+
+#### Individual Analysis:
+**Insert text here**
+
+Revisit your previous mini exercises and select the most technically complex one. Draw an individual flow chart to present the program
+
+Individual: How is this flow chart different from the one that you had in  (in terms of the role of a flow chart)?
+
+Individual: If you have to bring the concept of algorithms from flow charts to a wider cultural context, how would you reflect the notion of algorithms? (see if you could refer to the text and articulate your thoughts?)
+
+## Our team:
+#### Alexander:
+https://github.com/ubiquitousman
+#### Anne:
+https://github.com/AnnesFlashBack
+#### Frederik:
+https://github.com/Mightydeeze  #
+ Best regards
 #### Alexander Svanholm, Anne Gregersen & Frederik Ditlev
-
