@@ -30,7 +30,7 @@ For the group flowcharts, it was based on concept, not code, which immediately l
 
 
 #### Flowchart of Song Invaders
-![alt text](songinvader.png "FIRE")
+![alt text](invaders.png "FIRE")
 
 ## Our team:
 #### Alexander:
